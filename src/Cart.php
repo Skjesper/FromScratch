@@ -2,9 +2,9 @@
 
 declare(strict_types=1);
 
-namespace App\http;
+namespace App;
 
-use App\http\Product;
+use App\Product;
 
 
 class Cart {
